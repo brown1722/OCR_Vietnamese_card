@@ -10,3 +10,7 @@ cd OCR_CCCD
 
 pip install -r requirements.txt
 ```
+
+# Result
+
+<img src="https://github.com/brown1722/OCR_Vietnamese_card/tree/main/image/output.png" width="512" height="614">
