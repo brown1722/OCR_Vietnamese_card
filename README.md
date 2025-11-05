@@ -13,4 +13,4 @@ pip install -r requirements.txt
 
 # Result
 
-<img src="https://github.com/brown1722/OCR_Vietnamese_card/tree/main/image/output.png" width="512" height="614">
+<img src="https://raw.githubusercontent.com/brown1722/OCR_Vietnamese_card/main/image/output.png">
